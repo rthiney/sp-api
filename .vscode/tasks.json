@@ -1,0 +1,52 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "npm",
+            "script": "start",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "codecov",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "gh-pages",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "build:clean",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "build:dist",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "commit",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "compodoc",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "copyfiles",
+            "problemMatcher": []
+        },
+        {
+            "type": "npm",
+            "script": "commitmsg",
+            "problemMatcher": []
+        }
+    ]
+}

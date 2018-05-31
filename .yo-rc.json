@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "rthiney",
+    "githubRepoName": "sp-api",
+    "npmModuleName": "sp-api",
+    "ngModuleName": "SpApiModule",
+    "selectorPrefix": "SP",
+    "projectTitle": "sp api",
+    "projectDescription": "",
+    "authorName": "Raphael Thiney",
+    "packageManager": "npm"
+  }
+}
